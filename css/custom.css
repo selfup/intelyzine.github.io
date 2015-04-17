@@ -98,7 +98,7 @@ ul.nav, .jumbotron h1 {
 }
 
 
-@media (max-width: 991px) {
+@media (max-width: 891px) {
   .jumbotron h1 {
     font-size: 46px;
     margin-bottom: 30px;
